@@ -6,7 +6,7 @@ The database repository for Sejong Face Database: A multi-modal disguise face da
 • Presented database contains 15 disguise variations, 100 subjects and 4 modalities (Visible, Infrared, Visible-plus-Infrared, and Thermal).
 • For further information about Sejong Face Database see: https://sciencedirect.com/science/article/pii/S107731422100062X.
 
-To access the database kindly email: usman[at]sju.ac.kr with the subject: "Sejong Face Database Access Request."
+To access the database kindly email: musmancheema[at]google.com with the subject: "Sejong Face Database Access Request."
 
 How to use SFD
 
