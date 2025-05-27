@@ -13,3 +13,5 @@ How to use SFD
 Sejong Face Database is freely available for usage in scientific research only.
 All publications using Sejong Face Database must cite the following papers:
   - https://sciencedirect.com/science/article/pii/S107731422100062X
+
+The database can be accessed from: https://drive.google.com/file/d/1KZn4eN5Y1MtykstF51qJ5i1CY1Svzm63/view?usp=drive_link
